@@ -1,0 +1,6 @@
+[Desktop Entry]
+Type=Application
+Name=Shots
+Icon=ru.theshots.App
+Exec=/app/bin/shots
+Categories=Network;
